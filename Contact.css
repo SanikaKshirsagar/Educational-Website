@@ -1,0 +1,32 @@
+.container{
+    background: url('https://cdn.dribbble.com/users/1602563/screenshots/8869646/media/ddc33ce2c8e2570c410123f375e2c35c.gif') no-repeat fixed center; 
+    opacity: 0.8;
+    z-index: -1;
+  }
+  
+  .row{
+    width: 600px;
+  }
+  
+  .mb-1{
+    color: black;
+    font-weight: bold;
+  }
+  .card-shadow{
+    width: 500px;
+    margin-left: 600px;
+  }
+  
+  .card-body{
+     padding: 2rem 5rem;
+  }
+  
+  .col-md-6{
+    width: 75%;
+  }
+  
+  .form-group{
+    margin: 10px;
+  }
+  
+  
